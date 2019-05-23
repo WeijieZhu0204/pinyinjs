@@ -1,5 +1,5 @@
 {
-  "name": "ipinyinjs",
+  "name": "@weijiezhu/ipinyinjs",
   "version": "1.0.0",
   "description": "一个实现汉字与拼音互转的小巧web工具库",
   "main": "pinyinUtil.js",
